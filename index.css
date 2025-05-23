@@ -1,7 +1,8 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0;
     padding: 20px;
+    background-color: #F1EDE5;
 
     display: flex;
     flex-direction: column;
@@ -10,8 +11,8 @@ body {
 }
 
 .container {
-    background-color: #fff;
-    border: 1px solid #ddd;
+    background-color: #F1EDE5;
+    border: 1px solid #ddddddb0;
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 30px;
@@ -27,8 +28,8 @@ body {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
 
-    background-color: #fff;
-    border: 1px solid #ddd;
+    background-color: #F1EDE5;
+    border: 1px solid #ddddddb0;
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 30px;
@@ -59,12 +60,12 @@ body {
 }
 
 .btn_azul {
-    background-color: #007BFF;
+    background-color: #2D2A7D;
     color: white;
 }
 
 .btn_azul:hover {
-    background-color: #0056b3;
+    background-color: #4642c2;
 }
 
 .btn_vermelho {
@@ -78,12 +79,12 @@ body {
 }
 
 .btn_amarelo {
-    background-color: #f0dd30;
+    background-color: #FEB715;
     color: black;
 }
 
 .btn_amarelo:hover {
-    background-color: #d4c328;
+    background-color: #e0a212;
 }
 
 .btn_verde {
@@ -100,11 +101,14 @@ body {
     border: none;
     display: block;
 }
+.respostas{
+    width: 65%;
+}
 
 .vertical{
     display: flex;
     flex-direction: column;
     gap: 1rem;
     align-items: center;
-    justify-content: center
+    justify-content:start
 }
