@@ -9,18 +9,19 @@
     <title>Gerenciador de NPS</title>
 </head>
 
-<body>
-    <div class="container">
-        <form id="login" style="display: flex;flex-direction: column;gap: 0.5rem;">
-            <div style="display: flex;justify-content: space-between;gap: 0.5rem;">
-                <label>Usuário</label>
-                <input id="usuario" type="text">
+<body style="display: flex; align-items: center; justify-content: center; height: 100vh;">
+    <div class="container" style="width: 50%;">
+        <h2 style="color: #2D2A7D;">Gerenciamento de NPS</h2>
+        <form id="login" class="login" style="width: 100%;">
+            <div class="centralizar_separado_meio">
+                <label class="label_login"><b>Usuário</b></label>
+                <input id="usuario" type="text" class="input_login" style="width: 80%;">
             </div>
-            <div style="display: flex;justify-content: space-between;gap: 0.5rem;">
-                <label>Senha</label>
-                <input id="senha" type="password">
+            <div class="centralizar_separado_meio">
+                <label class="label_login"><b>Senha</b></label>
+                <input id="senha" type="password" class="input_login" style="width: 80%;">
             </div>
-            <input type="submit">
+            <input type="submit" class="botao btn_azul" style="width: 100%;">
         </form>
         <label id="erro" style="color: red;margin-top: 0.5rem;"></label>
     </div>

@@ -13,8 +13,7 @@
             "detratores":"",
             "neutros":"",
             "promotores":"",
-            "historico_tipo_cliente":"",
-            "ranking":""
+            "historico_tipo_cliente":""
         },
         "preferencias":"",
         "espera":{
@@ -110,14 +109,14 @@
             "historico":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=1567186683&format=image"
         },
         "produtos":{
-            "grafico":"",
-            "tabela":""
+            "grafico":"https://docs.google.com/spreadsheets/d/e/2PACX-1vTwkiMKmg-UGUHv_fZd8qttT86HywU92ATk8NG6KJdVJSVcpkk1rwrSXkgPJPhMkVlLXXSUdmpnvs7n/pubchart?oid=1534721297&format=image",
+            "tabela":"https://docs.google.com/spreadsheets/d/e/2PACX-1vS0OQKjJTkiZXPI0hpJagJvHAITE3BR_2ZWvHgaXCj6mlCmS3QCk5dnrDrcTnGTWKKWhECTLZf-wey4/pubhtml?gid=910053604&single=true"
         },
         "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
+            "30_dias":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSVMe-61XMsurJsKk9YF_9BUA6oYSijXnTSF8iBem40HSj4FsF69VNZypvI-Wu5Lgs3SkqJY8kM0PJn/pubhtml?gid=112891552&single=true",
+            "detratores":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSVMe-61XMsurJsKk9YF_9BUA6oYSijXnTSF8iBem40HSj4FsF69VNZypvI-Wu5Lgs3SkqJY8kM0PJn/pubhtml?gid=933124615&single=true",
+            "neutros":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSVMe-61XMsurJsKk9YF_9BUA6oYSijXnTSF8iBem40HSj4FsF69VNZypvI-Wu5Lgs3SkqJY8kM0PJn/pubhtml?gid=380041308&single=true",
+            "promotores":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSVMe-61XMsurJsKk9YF_9BUA6oYSijXnTSF8iBem40HSj4FsF69VNZypvI-Wu5Lgs3SkqJY8kM0PJn/pubhtml?gid=2129630836&single=true" 
         }
     },
     "l_2":{

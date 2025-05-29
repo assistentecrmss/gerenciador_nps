@@ -4,28 +4,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../index.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <title>Gerenciador de NPS - Informação Geral</title>
-    <link rel="stylesheet" href="../../index.css">
+    
 </head>
 
 <body>
-    <header>
-        <button id="voltar" class="botao btn_azul">Voltar</button>
-    </header>
+    <header class="centralizar_separado_meio">
+        <div>
+            <button id="voltar" class="botao btn_amarelo">voltar</button>
+        </div>
 
-    <h1 id="titulo"></h1>
-    <h2>Informações Gerais</h2>
+        <h2 style="padding-left: 7rem;color: white;">Informações Gerais</h2>
+
+        <h1 id="titulo" style="color: white;padding-right: 1rem;"></h1>
+
+    </header>
+    
+    <div class="caminho_tabelas">
+        <button id="produtos_faltantes" class="botao btn_azul">Produtos Faltantes</button>
+        <button id="comentarios" class="botao btn_azul">Comentários</button>
+    </div>
+    
     <div id="info_geral" class="container_grid">
         <div id="respostas" class="vertical"></div>
         <div id="nps_atual" class="vertical"></div>
         <div id="nps_total" class="vertical"></div>
     </div>
 
-    <div id="ranking_nps"></div>
+    <div id="ranking_nps" style="display: none;gap: 1rem;">
+        <iframe
+            src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSaoVye1eDCQwqAG0oit-Jaoz2YKvEydH8HJJnS-PzVt0RE1KfeM8HkuS626k7FRHEUXHTeQVFwE5zm/pubhtml?gid=0&single=true"
+            frameborder="0" width="770" height="595"></iframe>
+        <div>
+            <p><b>🟢 Excelente</b> (75% a 100%)</p>
+            <p><b>🟡 Qualidade</b> (50% a 74%)</p>
+            <p><b>🔴 Aperfeiçoamento</b> (0% a 49%)</p>
+            <p><b>⚫ Crítico</b> (Menor que 0%)</p>
+        </div>
+    </div>
 
     <h2>Preferências do Cliente</h2>
-    <div id="preferencias" class="vertical" style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);"></div>
+    <div id="preferencias" class="vertical"
+        style="border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);"></div>
 
     <h2>Avaliação por Setor</h2>
     <div class="container_grid">

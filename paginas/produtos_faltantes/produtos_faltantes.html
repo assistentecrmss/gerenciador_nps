@@ -3,26 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gerenciador de NPS - Histórico por Setor</title>
     <link rel="stylesheet" href="../../index.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <title>Gerenciador de NPS - Produtos Faltantes</title>
 </head>
 <body>
     <header class="centralizar_separado_meio">
         <div>
-            <button id="voltar" class="botao btn_amarelo">Voltar</button>
+            <button id="voltar" class="botao btn_amarelo">voltar</button>
         </div>
 
-        <h2 style="padding-left: 7rem;color: white;">Histórico de Avaliação por Setor</h2>
-        
+        <h2 style="padding-left: 7rem;color: white;">Produtos Faltantes</h2>
+
         <h1 id="titulo" style="color: white;padding-right: 1rem;"></h1>
 
     </header>
 
-    
-    
-    <div id="setores" class="vertical" style="margin-top: 6rem;"></div>
+    <div id="container" class="horizontal" style="margin-top: 6rem;padding-inline: 1rem;">
+        <img id="imagem">
+        <iframe id="tabela" frameborder="0" height="500" width="525"></iframe>
+    </div>
 
 </body>
-<script type="module" src="historico_setores.js"></script>
+<script type="module" src="produtos_faltantes.js"></script>
 </html>

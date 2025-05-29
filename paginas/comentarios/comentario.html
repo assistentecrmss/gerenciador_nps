@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../index.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <title>Gerenciador de NPS - Comentários</title>
+</head>
+
+<body>
+    <header class="centralizar_separado_meio">
+        <div>
+            <button id="voltar" class="botao btn_amarelo">voltar</button>
+        </div>
+
+        <h2 style="padding-left: 7rem;color: white;">Comentários</h2>
+
+        <h1 id="titulo" style="color: white;padding-right: 1rem;"></h1>
+
+    </header>
+
+    <div class="vertical" style="margin-top: 6rem;">
+        <h2>Últimos 30 Dias</h2>
+        <iframe id="30_dias" frameborder="0" height="500" width="850"></iframe>
+    </div>
+
+    <div class="vertical">
+        <h2>Detratores</h2>
+        <iframe id="detratores" frameborder="0" height="500" width="850"></iframe>
+    </div>
+
+    <div class="vertical">
+        <h2>Neutros</h2>
+        <iframe id="neutros" frameborder="0" height="500" width="850"></iframe>
+    </div>
+
+    <div class="vertical">
+        <h2>Promotores</h2>
+        <iframe id="promotores" frameborder="0" height="500" width="850"></iframe>
+    </div>
+
+</body>
+<script type="module" src="comentarios.js"></script>
+
+</html>

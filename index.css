@@ -1,7 +1,6 @@
 body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
-    padding: 20px;
     background-color: #F1EDE5;
 
     display: flex;
@@ -16,7 +15,7 @@ body {
     border-radius: 8px;
     padding: 20px;
     margin-bottom: 30px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
 
     display: flex;
     flex-direction: column;
@@ -96,21 +95,22 @@ body {
     background-color: #5bab1f;
 }
 
-.indicador_setor{
+.indicador_setor {
     width: 80%;
     border: none;
     display: block;
 }
-.respostas{
+
+.respostas {
     width: 65%;
 }
 
-.vertical{
+.vertical {
     display: flex;
     flex-direction: column;
     gap: 1rem;
     align-items: center;
-    justify-content:start;
+    justify-content: start;
 
     border: 1px solid #ddddddb0;
     border-radius: 8px;
@@ -122,11 +122,11 @@ body {
     margin-top: 2rem;
 }
 
-.horizontal{
+.horizontal {
     display: flex;
     gap: 1rem;
     align-items: center;
-    justify-content:start;
+    justify-content: start;
 
     border: 1px solid #ddddddb0;
     border-radius: 8px;
@@ -136,4 +136,63 @@ body {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
 
     margin-top: 1rem;
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    justify-content: start;
+
+    margin-top: 2rem;
+}
+
+.label_login {
+    font-size: 1.2rem;
+    margin-left: 1.5rem;
+    color: #2D2A7D;
+}
+
+.input_login {
+    border-radius: 8px;
+    padding: 0.25rem;
+    background-color: #adabce;
+
+}
+
+.input_login:focus {
+    background-color: #c6c3fd;
+}
+
+.centralizar_separado_meio {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.5rem;
+    width: 100%;
+    align-items: center;
+}
+
+header {
+    background-color: #49469e;
+    padding-right: 2rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.caminho_tabelas {
+    margin-top: 5rem;
+    width: 100vw;
+    background-color: #FEB715;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 15%;
+}
+
+.caminho_tabelas>button{
+    width: 20%;
 }

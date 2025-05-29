@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,15 +8,24 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <title>Gerenciador de NPS - Lojas</title>
 </head>
+
 <body>
-    <header>
-        <button id="sair" class="botao btn_azul">Sair</button>
+    <header class="centralizar_separado_meio">
+        <div>
+            <button id="sair" class="botao btn_amarelo">Sair</button>
+        </div>
+        
+        <div id="bem_vindo" style="color: white;"></div>
+        
+        <div></div>
+
     </header>
-    <div id="bem_vindo"></div>
-    
-    <div id="lojas" class="container_grid">
+
+
+    <div id="lojas" class="container_grid" style="margin-top: 4rem;">
 
     </div>
 </body>
 <script type="module" src="/paginas/lojas/lojas.js"></script>
+
 </html>

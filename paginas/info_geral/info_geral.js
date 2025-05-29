@@ -20,6 +20,8 @@ function preencherInfoGeral() {
     criarSetor(chave_loja,"atendimento")
     criarSetor(chave_loja,"acogue")
 
+    if(chave_loja=="l_0"){document.getElementById("ranking_nps").style.display="flex"}
+
 }
 
 function criarRespostas(chave_loja) {
@@ -113,4 +115,12 @@ const voltar = document.getElementById("voltar")
 
 voltar.addEventListener("click", () => {
     window.location.href = "../lojas/lojas.html"
+})
+
+document.getElementById("comentarios").addEventListener("click",()=>{
+    window.location.href="../comentarios/comentario.html"
+})
+
+document.getElementById("produtos_faltantes").addEventListener("click",()=>{
+    window.location.href="../produtos_faltantes/produtos_faltantes.html"
 })
