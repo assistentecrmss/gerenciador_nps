@@ -12,25 +12,33 @@ function preencherInfoGeral() {
 
     criarPreferencias(chave_loja)
 
-    criarEspera(chave_loja)
+    criarBotaoHistoricoSetor()
+    criarSetor(chave_loja,"espera")
+    criarSetor(chave_loja,"hortifruti")
+    criarSetor(chave_loja,"climatizacao")
+    criarSetor(chave_loja,"limpeza")
+    criarSetor(chave_loja,"atendimento")
+    criarSetor(chave_loja,"acogue")
 
 }
 
 function criarRespostas(chave_loja) {
+    const container=document.getElementById("respostas")
+
     const resp_atual = document.createElement("img")
     resp_atual.src = links[chave_loja].respostas.atual
     resp_atual.classList.add("respostas")
-    document.getElementById("respostas").appendChild(resp_atual)
+    container.appendChild(resp_atual)
 
     const resp_anterior = document.createElement("img")
     resp_anterior.src = links[chave_loja].respostas.anterior
     resp_anterior.classList.add("respostas")
-    document.getElementById("respostas").appendChild(resp_anterior)
+    container.appendChild(resp_anterior)
 
     const resp_total = document.createElement("img")
     resp_total.src = links[chave_loja].respostas.total
     resp_total.classList.add("respostas")
-    document.getElementById("respostas").appendChild(resp_total)
+    container.appendChild(resp_total)
 }
 function criarNpsAtual(chave_loja) {
     const nps_atual = document.createElement("img")
@@ -54,6 +62,9 @@ function criarNpsTotal(chave_loja){
     historico_nps.innerHTML="Histórico do NPS"
     historico_nps.classList.add("botao")
     historico_nps.classList.add("btn_amarelo")
+    historico_nps.addEventListener("click",()=>{
+        window.location.href = "../historico_nps/historico_nps.html"
+    })
     document.getElementById("nps_total").appendChild(historico_nps)
 }
 function criarPreferencias(chave_loja) {
@@ -63,11 +74,35 @@ function criarPreferencias(chave_loja) {
     document.getElementById("preferencias").appendChild(preferencia)
 
 }
-function criarEspera(chave_loja){
-    const ranking_espera=document.createElement("img")
-    ranking_espera.src=links[chave_loja].espera.ranking
-    ranking_espera.style.width="80%"
-    document.getElementById("espera").appendChild(ranking_espera)
+function criarSetor(chave_loja,setor){
+    const container=document.getElementById(String(setor))
+    
+    const ranking=document.createElement("img")
+    ranking.src=links[chave_loja][setor].ranking
+    ranking.style.width="80%"
+    container.appendChild(ranking)
+
+    const indicador=document.createElement("img")
+    indicador.src=links[chave_loja][setor].indicador
+    indicador.style.width="80%"
+    container.appendChild(indicador)
+
+    const bench=document.createElement("img")
+    bench.src=links[chave_loja][setor].bench
+    bench.style.width="80%"
+    container.appendChild(bench)
+}
+function criarBotaoHistoricoSetor(){
+    
+    const historico_setores=document.createElement("button")
+    historico_setores.innerHTML="Histórico dos Setores"
+    historico_setores.classList.add("botao")
+    historico_setores.classList.add("btn_amarelo")
+    document.getElementById("historico_setores").appendChild(historico_setores)
+
+    historico_setores.addEventListener("click",()=>{
+        window.location.href = "../historico_setores/historico_setores.html"
+    })
 }
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -75,6 +110,7 @@ document.addEventListener("DOMContentLoaded", () => {
 })
 
 const voltar = document.getElementById("voltar")
+
 voltar.addEventListener("click", () => {
     window.location.href = "../lojas/lojas.html"
 })
