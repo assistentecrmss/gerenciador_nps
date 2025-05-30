@@ -1,1445 +1,1438 @@
 {
-    "l_0":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
+    "l_0": {
+        "respostas": {
+            "atual": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRaGWDjMZh2rL9XHU7qXDn7QMWgJftu4v4Ia6ANW5uATUfGIrqT0ZZ7HBx5116O-DIJt9CZ9hZCHeUy/pubchart?oid=743794058&format=image",
+            "anterior": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRaGWDjMZh2rL9XHU7qXDn7QMWgJftu4v4Ia6ANW5uATUfGIrqT0ZZ7HBx5116O-DIJt9CZ9hZCHeUy/pubchart?oid=401402418&format=image",
+            "total": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRaGWDjMZh2rL9XHU7qXDn7QMWgJftu4v4Ia6ANW5uATUfGIrqT0ZZ7HBx5116O-DIJt9CZ9hZCHeUy/pubchart?oid=2042804977&format=image"
         },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
+        "nps": {
+            "atual": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRamvJkbKxfah7O_B0Z-8JzyTi5EjNbzCEc2mLFRuln6mDazisaPPFRKo8XUj55iRdthQGhVlOzaeX5/pubchart?oid=1283659048&format=image",
+            "total": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRamvJkbKxfah7O_B0Z-8JzyTi5EjNbzCEc2mLFRuln6mDazisaPPFRKo8XUj55iRdthQGhVlOzaeX5/pubchart?oid=1860345304&format=image",
+            "variacao": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRamvJkbKxfah7O_B0Z-8JzyTi5EjNbzCEc2mLFRuln6mDazisaPPFRKo8XUj55iRdthQGhVlOzaeX5/pubchart?oid=1449212013&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRamvJkbKxfah7O_B0Z-8JzyTi5EjNbzCEc2mLFRuln6mDazisaPPFRKo8XUj55iRdthQGhVlOzaeX5/pubchart?oid=1465225889&format=image",
+            "detratores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRamvJkbKxfah7O_B0Z-8JzyTi5EjNbzCEc2mLFRuln6mDazisaPPFRKo8XUj55iRdthQGhVlOzaeX5/pubchart?oid=7879921&format=image",
+            "neutros": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRamvJkbKxfah7O_B0Z-8JzyTi5EjNbzCEc2mLFRuln6mDazisaPPFRKo8XUj55iRdthQGhVlOzaeX5/pubchart?oid=1844005935&format=image",
+            "promotores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRamvJkbKxfah7O_B0Z-8JzyTi5EjNbzCEc2mLFRuln6mDazisaPPFRKo8XUj55iRdthQGhVlOzaeX5/pubchart?oid=533667374&format=image",
+            "historico_tipo_cliente": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRamvJkbKxfah7O_B0Z-8JzyTi5EjNbzCEc2mLFRuln6mDazisaPPFRKo8XUj55iRdthQGhVlOzaeX5/pubchart?oid=1518435741&format=image"
         },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "historico":""
+        "preferencias": "https://docs.google.com/spreadsheets/d/e/2PACX-1vReN_z_tsEA9p1Oe_mHRZWptU81mdrE8HluCq7DYNWkGg0b5xyRk89X8223q3lKK69je6-j222xAZGN/pubchart?oid=1402448772&format=image",
+        "espera": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vScA60A9nzvn2xqRe4x7x2bEzn2NMVnNm51DifQmSKSkmsdwYM_H8sX95WfSXJzsaj-E8HlAiszA7J2/pubhtml?gid=462136330&single=true",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=475473979&format=image",
+            "bench": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1876389762&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=890801647&format=image"
         },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "historico":""
+        "hortifruti": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vScA60A9nzvn2xqRe4x7x2bEzn2NMVnNm51DifQmSKSkmsdwYM_H8sX95WfSXJzsaj-E8HlAiszA7J2/pubhtml?gid=756311064&single=true",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1940532086&format=image",
+            "bench": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=258894495&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=229245926&format=image"
         },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "historico":""
+        "climatizacao": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vScA60A9nzvn2xqRe4x7x2bEzn2NMVnNm51DifQmSKSkmsdwYM_H8sX95WfSXJzsaj-E8HlAiszA7J2/pubhtml?gid=25120547&single=true",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1031707513&format=image",
+            "bench": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1998927983&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1226013101&format=image"
         },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "historico":""
+        "limpeza": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vScA60A9nzvn2xqRe4x7x2bEzn2NMVnNm51DifQmSKSkmsdwYM_H8sX95WfSXJzsaj-E8HlAiszA7J2/pubhtml?gid=1126500293&single=true",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=664960162&format=image",
+            "bench": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1073474790&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=137180898&format=image"
         },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "historico":""
+        "atendimento": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vScA60A9nzvn2xqRe4x7x2bEzn2NMVnNm51DifQmSKSkmsdwYM_H8sX95WfSXJzsaj-E8HlAiszA7J2/pubhtml?gid=791861410&single=true",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1958800145&format=image",
+            "bench": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1827008812&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=152635069&format=image"
         },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "historico":""
+        "acogue": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vScA60A9nzvn2xqRe4x7x2bEzn2NMVnNm51DifQmSKSkmsdwYM_H8sX95WfSXJzsaj-E8HlAiszA7J2/pubhtml?gid=1994959423&single=true",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1232765654&format=image",
+            "bench": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1846170571&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1567186683&format=image"
         },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
+        "produtos": {
+            "grafico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRaGWDjMZh2rL9XHU7qXDn7QMWgJftu4v4Ia6ANW5uATUfGIrqT0ZZ7HBx5116O-DIJt9CZ9hZCHeUy/pubchart?oid=1534721297&format=image",
+            "tabela": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT-dwgIceiTJQBS2_EbFxb6QGdl6TwfXpo7OF4vsjHLOQn-9kA9vkIpMPhhkvOHwvdOpyFcxE21QdIh/pubhtml?gid=910053604&single=true"
         },
-        "comentarios":{
-            "grafico":"",
-            "tabela":""
+        "comentarios": {
+            "30_dias": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTaDsUQ1ZKGdKl2iINzXk3SzGovQp94QQLuP1aIzXh1sIl5G9HWL9g54A-DcwdbgMyfkx2YoyCTIi8X/pubhtml?gid=451433573&single=true",
+            "detratores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTaDsUQ1ZKGdKl2iINzXk3SzGovQp94QQLuP1aIzXh1sIl5G9HWL9g54A-DcwdbgMyfkx2YoyCTIi8X/pubhtml?gid=1039043395&single=true",
+            "neutros": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTaDsUQ1ZKGdKl2iINzXk3SzGovQp94QQLuP1aIzXh1sIl5G9HWL9g54A-DcwdbgMyfkx2YoyCTIi8X/pubhtml?gid=1608654025&single=true",
+            "promotores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTaDsUQ1ZKGdKl2iINzXk3SzGovQp94QQLuP1aIzXh1sIl5G9HWL9g54A-DcwdbgMyfkx2YoyCTIi8X/pubhtml?gid=1510348831&single=true"
         }
     },
-    "l_1":{
-        "respostas":{
-            "atual":"https://docs.google.com/spreadsheets/d/e/2PACX-1vTwkiMKmg-UGUHv_fZd8qttT86HywU92ATk8NG6KJdVJSVcpkk1rwrSXkgPJPhMkVlLXXSUdmpnvs7n/pubchart?oid=743794058&format=image",
-            "anterior":"https://docs.google.com/spreadsheets/d/e/2PACX-1vTwkiMKmg-UGUHv_fZd8qttT86HywU92ATk8NG6KJdVJSVcpkk1rwrSXkgPJPhMkVlLXXSUdmpnvs7n/pubchart?oid=401402418&format=image",
-            "total":"https://docs.google.com/spreadsheets/d/e/2PACX-1vTwkiMKmg-UGUHv_fZd8qttT86HywU92ATk8NG6KJdVJSVcpkk1rwrSXkgPJPhMkVlLXXSUdmpnvs7n/pubchart?oid=2042804977&format=image"
+    "l_1": {
+        "respostas": {
+            "atual": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwkiMKmg-UGUHv_fZd8qttT86HywU92ATk8NG6KJdVJSVcpkk1rwrSXkgPJPhMkVlLXXSUdmpnvs7n/pubchart?oid=743794058&format=image",
+            "anterior": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwkiMKmg-UGUHv_fZd8qttT86HywU92ATk8NG6KJdVJSVcpkk1rwrSXkgPJPhMkVlLXXSUdmpnvs7n/pubchart?oid=401402418&format=image",
+            "total": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwkiMKmg-UGUHv_fZd8qttT86HywU92ATk8NG6KJdVJSVcpkk1rwrSXkgPJPhMkVlLXXSUdmpnvs7n/pubchart?oid=2042804977&format=image"
         },
-        "nps":{
-            "atual":"https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1283659048&format=image",
-            "total":"https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1860345304&format=image",
-            "variacao":"https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1449212013&format=image",
-            "historico":"https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1465225889&format=image",
-            "detratores":"https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1597950142&format=image",
-            "neutros":"https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1896643286&format=image",
-            "promotores":"https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1059991832&format=image",
-            "historico_tipo_cliente":"https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1941859869&format=image"
+        "nps": {
+            "atual": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1283659048&format=image",
+            "total": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1860345304&format=image",
+            "variacao": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1449212013&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1465225889&format=image",
+            "detratores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1597950142&format=image",
+            "neutros": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1896643286&format=image",
+            "promotores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1059991832&format=image",
+            "historico_tipo_cliente": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRB-uRUfsiVa64YbtZdpUiuA-G6WCYPFIiXLGdJ65uJrEg68CDQkezCJd_TJK6nlqO7EstIoCQzuUeg/pubchart?oid=1941859869&format=image"
         },
-        "preferencias":"https://docs.google.com/spreadsheets/d/e/2PACX-1vR6vMwXSnyp4qWFjriI9wFJd-N1vr5D1Fc300BpNLO_awBnmJZLuq9EAOZYd8iyV8qgeocImXHUHp50/pubchart?oid=1402448772&format=image",
-        "espera":{
-            "ranking":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSW1qiDgtkRf70w7JUFWqIoDkSiOqIL_RZtuETkMrGn_XYimR8Eu55dgeHWiW8JegE22-oHPip5Q7dF/pubchart?oid=1134802033&format=image",
-            "indicador":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=475473979&format=image",
-            "bench":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1876389762&format=image",
-            "historico":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=890801647&format=image"
+        "preferencias": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR6vMwXSnyp4qWFjriI9wFJd-N1vr5D1Fc300BpNLO_awBnmJZLuq9EAOZYd8iyV8qgeocImXHUHp50/pubchart?oid=1402448772&format=image",
+        "espera": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSW1qiDgtkRf70w7JUFWqIoDkSiOqIL_RZtuETkMrGn_XYimR8Eu55dgeHWiW8JegE22-oHPip5Q7dF/pubchart?oid=1134802033&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=475473979&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=890801647&format=image"
         },
-        "hortifruti":{
-            "ranking":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSW1qiDgtkRf70w7JUFWqIoDkSiOqIL_RZtuETkMrGn_XYimR8Eu55dgeHWiW8JegE22-oHPip5Q7dF/pubchart?oid=1224650229&format=image",
-            "indicador":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=1940532086&format=image",
-            "bench":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=258894495&format=image",
-            "historico":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=229245926&format=image"
+        "hortifruti": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSW1qiDgtkRf70w7JUFWqIoDkSiOqIL_RZtuETkMrGn_XYimR8Eu55dgeHWiW8JegE22-oHPip5Q7dF/pubchart?oid=1224650229&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=1940532086&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=229245926&format=image"
         },
-        "climatizacao":{
-            "ranking":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSW1qiDgtkRf70w7JUFWqIoDkSiOqIL_RZtuETkMrGn_XYimR8Eu55dgeHWiW8JegE22-oHPip5Q7dF/pubchart?oid=244481120&format=image",
-            "indicador":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=1031707513&format=image",
-            "bench":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1998927983&format=image",
-            "historico":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=1226013101&format=image"
+        "climatizacao": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSW1qiDgtkRf70w7JUFWqIoDkSiOqIL_RZtuETkMrGn_XYimR8Eu55dgeHWiW8JegE22-oHPip5Q7dF/pubchart?oid=244481120&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=1031707513&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=1226013101&format=image"
         },
-        "limpeza":{
-            "ranking":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSW1qiDgtkRf70w7JUFWqIoDkSiOqIL_RZtuETkMrGn_XYimR8Eu55dgeHWiW8JegE22-oHPip5Q7dF/pubchart?oid=1071068949&format=image",
-            "indicador":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=664960162&format=image",
-            "bench":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1073474790&format=image",
-            "historico":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=137180898&format=image"
+        "limpeza": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSW1qiDgtkRf70w7JUFWqIoDkSiOqIL_RZtuETkMrGn_XYimR8Eu55dgeHWiW8JegE22-oHPip5Q7dF/pubchart?oid=1071068949&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=664960162&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=137180898&format=image"
         },
-        "atendimento":{
-            "ranking":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSW1qiDgtkRf70w7JUFWqIoDkSiOqIL_RZtuETkMrGn_XYimR8Eu55dgeHWiW8JegE22-oHPip5Q7dF/pubchart?oid=925963706&format=image",
-            "indicador":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=1958800145&format=image",
-            "bench":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1827008812&format=image",
-            "historico":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=152635069&format=image"
+        "atendimento": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSW1qiDgtkRf70w7JUFWqIoDkSiOqIL_RZtuETkMrGn_XYimR8Eu55dgeHWiW8JegE22-oHPip5Q7dF/pubchart?oid=925963706&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=1958800145&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=152635069&format=image"
         },
-        "acogue":{
-            "ranking":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSW1qiDgtkRf70w7JUFWqIoDkSiOqIL_RZtuETkMrGn_XYimR8Eu55dgeHWiW8JegE22-oHPip5Q7dF/pubchart?oid=320419301&format=image",
-            "indicador":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=1232765654&format=image",
-            "bench":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1846170571&format=image",
-            "historico":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=1567186683&format=image"
+        "acogue": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSW1qiDgtkRf70w7JUFWqIoDkSiOqIL_RZtuETkMrGn_XYimR8Eu55dgeHWiW8JegE22-oHPip5Q7dF/pubchart?oid=320419301&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=1232765654&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQqWBgrV1FL5qd2No5odIKdNYHyLTPGRz3VBrvOwF3COqPnUgTX8OD1ZkmkHUoM3FIDdwscz0JgVpn4/pubchart?oid=1567186683&format=image"
         },
-        "produtos":{
-            "grafico":"https://docs.google.com/spreadsheets/d/e/2PACX-1vTwkiMKmg-UGUHv_fZd8qttT86HywU92ATk8NG6KJdVJSVcpkk1rwrSXkgPJPhMkVlLXXSUdmpnvs7n/pubchart?oid=1534721297&format=image",
-            "tabela":"https://docs.google.com/spreadsheets/d/e/2PACX-1vS0OQKjJTkiZXPI0hpJagJvHAITE3BR_2ZWvHgaXCj6mlCmS3QCk5dnrDrcTnGTWKKWhECTLZf-wey4/pubhtml?gid=910053604&single=true"
+        "produtos": {
+            "grafico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwkiMKmg-UGUHv_fZd8qttT86HywU92ATk8NG6KJdVJSVcpkk1rwrSXkgPJPhMkVlLXXSUdmpnvs7n/pubchart?oid=1534721297&format=image",
+            "tabela": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS0OQKjJTkiZXPI0hpJagJvHAITE3BR_2ZWvHgaXCj6mlCmS3QCk5dnrDrcTnGTWKKWhECTLZf-wey4/pubhtml?gid=910053604&single=true"
         },
-        "comentarios":{
-            "30_dias":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSVMe-61XMsurJsKk9YF_9BUA6oYSijXnTSF8iBem40HSj4FsF69VNZypvI-Wu5Lgs3SkqJY8kM0PJn/pubhtml?gid=112891552&single=true",
-            "detratores":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSVMe-61XMsurJsKk9YF_9BUA6oYSijXnTSF8iBem40HSj4FsF69VNZypvI-Wu5Lgs3SkqJY8kM0PJn/pubhtml?gid=933124615&single=true",
-            "neutros":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSVMe-61XMsurJsKk9YF_9BUA6oYSijXnTSF8iBem40HSj4FsF69VNZypvI-Wu5Lgs3SkqJY8kM0PJn/pubhtml?gid=380041308&single=true",
-            "promotores":"https://docs.google.com/spreadsheets/d/e/2PACX-1vSVMe-61XMsurJsKk9YF_9BUA6oYSijXnTSF8iBem40HSj4FsF69VNZypvI-Wu5Lgs3SkqJY8kM0PJn/pubhtml?gid=2129630836&single=true" 
+        "comentarios": {
+            "30_dias": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSVMe-61XMsurJsKk9YF_9BUA6oYSijXnTSF8iBem40HSj4FsF69VNZypvI-Wu5Lgs3SkqJY8kM0PJn/pubhtml?gid=112891552&single=true",
+            "detratores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSVMe-61XMsurJsKk9YF_9BUA6oYSijXnTSF8iBem40HSj4FsF69VNZypvI-Wu5Lgs3SkqJY8kM0PJn/pubhtml?gid=933124615&single=true",
+            "neutros": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSVMe-61XMsurJsKk9YF_9BUA6oYSijXnTSF8iBem40HSj4FsF69VNZypvI-Wu5Lgs3SkqJY8kM0PJn/pubhtml?gid=380041308&single=true",
+            "promotores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSVMe-61XMsurJsKk9YF_9BUA6oYSijXnTSF8iBem40HSj4FsF69VNZypvI-Wu5Lgs3SkqJY8kM0PJn/pubhtml?gid=2129630836&single=true"
         }
     },
-    "l_2":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1876389762&format=image",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=258894495&format=image",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1998927983&format=image",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1073474790&format=image",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1827008812&format=image",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"https://docs.google.com/spreadsheets/d/e/2PACX-1vQtIbND6fkOVUR6wf-xnftGmGx0rQqbbgACORhC84lyAUGvtsCbFZ3cbsXB2LuJIol94UoAeytgXaX9/pubchart?oid=1846170571&format=image",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_11":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_12":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_21":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_41":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_42":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_51":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_52":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_54":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_55":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_61":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_71":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_72":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_91":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_101":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_121":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_122":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_123":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_141":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_142":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }},
-    "l_143":{
-        "respostas":{
-            "atual":"",
-            "anterior":"",
-            "total":""
-        },
-        "nps":{
-            "atual":"",
-            "total":"",
-            "variacao":"",
-            "historico":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"",
-            "historico_tipo_cliente":""
-        },
-        "preferencias":"",
-        "espera":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "hortifruti":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "climatizacao":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "limpeza":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "atendimento":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "acogue":{
-            "ranking":"",
-            "indicador":"",
-            "bench":"",
-            "historico":""
-        },
-        "produtos":{
-            "grafico":"",
-            "tabela":""
-        },
-        "comentarios":{
-            "30_dias":"",
-            "detratores":"",
-            "neutros":"",
-            "promotores":"" 
-        }}
+    "l_2": {
+        "respostas": {
+            "atual": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSCPw_b2wG9U_y5kbt-g7wpaLwDa3-_JpacXvEDJwcdOjoEK_Us6J4YX5paN5TzoFI7L4khw-1oYmCC/pubchart?oid=743794058&format=image",
+            "anterior": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSCPw_b2wG9U_y5kbt-g7wpaLwDa3-_JpacXvEDJwcdOjoEK_Us6J4YX5paN5TzoFI7L4khw-1oYmCC/pubchart?oid=401402418&format=image",
+            "total": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSCPw_b2wG9U_y5kbt-g7wpaLwDa3-_JpacXvEDJwcdOjoEK_Us6J4YX5paN5TzoFI7L4khw-1oYmCC/pubchart?oid=2042804977&format=image"
+        },
+        "nps": {
+            "atual": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBk2fgAUX5PPzu1uQiehNEaZ6Zua2UyfYYTF6tjc1_Wv5tzyyB_fkwvRCc1az2GhCv1otl1ZHngWv1/pubchart?oid=1283659048&format=image",
+            "total": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBk2fgAUX5PPzu1uQiehNEaZ6Zua2UyfYYTF6tjc1_Wv5tzyyB_fkwvRCc1az2GhCv1otl1ZHngWv1/pubchart?oid=1860345304&format=image",
+            "variacao": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBk2fgAUX5PPzu1uQiehNEaZ6Zua2UyfYYTF6tjc1_Wv5tzyyB_fkwvRCc1az2GhCv1otl1ZHngWv1/pubchart?oid=1449212013&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBk2fgAUX5PPzu1uQiehNEaZ6Zua2UyfYYTF6tjc1_Wv5tzyyB_fkwvRCc1az2GhCv1otl1ZHngWv1/pubchart?oid=1465225889&format=image",
+            "detratores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBk2fgAUX5PPzu1uQiehNEaZ6Zua2UyfYYTF6tjc1_Wv5tzyyB_fkwvRCc1az2GhCv1otl1ZHngWv1/pubchart?oid=298418428&format=image",
+            "neutros": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBk2fgAUX5PPzu1uQiehNEaZ6Zua2UyfYYTF6tjc1_Wv5tzyyB_fkwvRCc1az2GhCv1otl1ZHngWv1/pubchart?oid=1111480266&format=image",
+            "promotores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBk2fgAUX5PPzu1uQiehNEaZ6Zua2UyfYYTF6tjc1_Wv5tzyyB_fkwvRCc1az2GhCv1otl1ZHngWv1/pubchart?oid=439592596&format=image",
+            "historico_tipo_cliente": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTBk2fgAUX5PPzu1uQiehNEaZ6Zua2UyfYYTF6tjc1_Wv5tzyyB_fkwvRCc1az2GhCv1otl1ZHngWv1/pubchart?oid=465319906&format=image"
+        },
+        "preferencias": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQh5OhkPHzgVqFkfUvbJ7LM6u9BXv2UihIo6AZVOXEvXzgrmaGPQPDELZ_yGPYJzrlWgM_oI8WXZdg1/pubchart?oid=1402448772&format=image",
+        "espera": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmqKlvNysCF1d9u2Lel60cqrlkbyBrBhEJNtsKx6RkCh1q57gBZJcnQFfwUnTZ1V7pGFyqd9XV5HqU/pubchart?oid=1134802033&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQn9vIJty3Fy86i6F7ARAmQ6N_i8qgCTBQoprf8YEMk2CDHmEGJus3lD5WZoGHIbtzEg0RdMK0cRjS/pubchart?oid=475473979&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQn9vIJty3Fy86i6F7ARAmQ6N_i8qgCTBQoprf8YEMk2CDHmEGJus3lD5WZoGHIbtzEg0RdMK0cRjS/pubchart?oid=890801647&format=image"
+        },
+        "hortifruti": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmqKlvNysCF1d9u2Lel60cqrlkbyBrBhEJNtsKx6RkCh1q57gBZJcnQFfwUnTZ1V7pGFyqd9XV5HqU/pubchart?oid=1224650229&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQn9vIJty3Fy86i6F7ARAmQ6N_i8qgCTBQoprf8YEMk2CDHmEGJus3lD5WZoGHIbtzEg0RdMK0cRjS/pubchart?oid=1940532086&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQn9vIJty3Fy86i6F7ARAmQ6N_i8qgCTBQoprf8YEMk2CDHmEGJus3lD5WZoGHIbtzEg0RdMK0cRjS/pubchart?oid=229245926&format=image"
+        },
+        "climatizacao": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmqKlvNysCF1d9u2Lel60cqrlkbyBrBhEJNtsKx6RkCh1q57gBZJcnQFfwUnTZ1V7pGFyqd9XV5HqU/pubchart?oid=244481120&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQn9vIJty3Fy86i6F7ARAmQ6N_i8qgCTBQoprf8YEMk2CDHmEGJus3lD5WZoGHIbtzEg0RdMK0cRjS/pubchart?oid=1031707513&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQn9vIJty3Fy86i6F7ARAmQ6N_i8qgCTBQoprf8YEMk2CDHmEGJus3lD5WZoGHIbtzEg0RdMK0cRjS/pubchart?oid=1226013101&format=image"
+        },
+        "limpeza": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmqKlvNysCF1d9u2Lel60cqrlkbyBrBhEJNtsKx6RkCh1q57gBZJcnQFfwUnTZ1V7pGFyqd9XV5HqU/pubchart?oid=1071068949&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQn9vIJty3Fy86i6F7ARAmQ6N_i8qgCTBQoprf8YEMk2CDHmEGJus3lD5WZoGHIbtzEg0RdMK0cRjS/pubchart?oid=664960162&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQn9vIJty3Fy86i6F7ARAmQ6N_i8qgCTBQoprf8YEMk2CDHmEGJus3lD5WZoGHIbtzEg0RdMK0cRjS/pubchart?oid=137180898&format=image"
+        },
+        "atendimento": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmqKlvNysCF1d9u2Lel60cqrlkbyBrBhEJNtsKx6RkCh1q57gBZJcnQFfwUnTZ1V7pGFyqd9XV5HqU/pubchart?oid=925963706&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQn9vIJty3Fy86i6F7ARAmQ6N_i8qgCTBQoprf8YEMk2CDHmEGJus3lD5WZoGHIbtzEg0RdMK0cRjS/pubchart?oid=1958800145&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQn9vIJty3Fy86i6F7ARAmQ6N_i8qgCTBQoprf8YEMk2CDHmEGJus3lD5WZoGHIbtzEg0RdMK0cRjS/pubchart?oid=152635069&format=image"
+        },
+        "acogue": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTmqKlvNysCF1d9u2Lel60cqrlkbyBrBhEJNtsKx6RkCh1q57gBZJcnQFfwUnTZ1V7pGFyqd9XV5HqU/pubchart?oid=320419301&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQn9vIJty3Fy86i6F7ARAmQ6N_i8qgCTBQoprf8YEMk2CDHmEGJus3lD5WZoGHIbtzEg0RdMK0cRjS/pubchart?oid=1232765654&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTQn9vIJty3Fy86i6F7ARAmQ6N_i8qgCTBQoprf8YEMk2CDHmEGJus3lD5WZoGHIbtzEg0RdMK0cRjS/pubchart?oid=1567186683&format=image"
+        },
+        "produtos": {
+            "grafico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSCPw_b2wG9U_y5kbt-g7wpaLwDa3-_JpacXvEDJwcdOjoEK_Us6J4YX5paN5TzoFI7L4khw-1oYmCC/pubchart?oid=1534721297&format=image",
+            "tabela": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSwTIg7pB941lmUxyrqXcRr-w6RuvRcuRrv3tlMlGF5uOz0QZaivQaXYKFo6-3-ukQJE4ZV7EVy-yqE/pubhtml?gid=910053604&single=true"
+        },
+        "comentarios": {
+            "30_dias": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR1hLgO34Y5EPVcG1e9P43eKFek0tAW_MspAt4cZriIwHvSoutjkT4DGr_Bm-sVtyNE0rblExDsJEOa/pubhtml?gid=112891552&single=true",
+            "detratores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR1hLgO34Y5EPVcG1e9P43eKFek0tAW_MspAt4cZriIwHvSoutjkT4DGr_Bm-sVtyNE0rblExDsJEOa/pubhtml?gid=2128404169&single=true",
+            "neutros": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR1hLgO34Y5EPVcG1e9P43eKFek0tAW_MspAt4cZriIwHvSoutjkT4DGr_Bm-sVtyNE0rblExDsJEOa/pubhtml?gid=837519414&single=true",
+            "promotores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vR1hLgO34Y5EPVcG1e9P43eKFek0tAW_MspAt4cZriIwHvSoutjkT4DGr_Bm-sVtyNE0rblExDsJEOa/pubhtml?gid=1896007600&single=true"
+        }
+    },
+    "l_11": {
+        "respostas": {
+            "atual": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRMV7_WwPwYqXlHoAiMgnPFUKqoh0bWbM3a_EhEbqXVY-PKcKs64BPIOCd0ETo-ZamiTRd10ClSMVAT/pubchart?oid=743794058&format=image",
+            "anterior": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRMV7_WwPwYqXlHoAiMgnPFUKqoh0bWbM3a_EhEbqXVY-PKcKs64BPIOCd0ETo-ZamiTRd10ClSMVAT/pubchart?oid=401402418&format=image",
+            "total": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRMV7_WwPwYqXlHoAiMgnPFUKqoh0bWbM3a_EhEbqXVY-PKcKs64BPIOCd0ETo-ZamiTRd10ClSMVAT/pubchart?oid=2042804977&format=image"
+        },
+        "nps": {
+            "atual": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ72ce0R3UIRbV8XNf-2ZT1TQRkc5fw8v4YP306DZvD5LOiwnptbFcPNYg8mNCzvGR4lkPoWG8-sNRd/pubchart?oid=1283659048&format=image",
+            "total": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ72ce0R3UIRbV8XNf-2ZT1TQRkc5fw8v4YP306DZvD5LOiwnptbFcPNYg8mNCzvGR4lkPoWG8-sNRd/pubchart?oid=1860345304&format=image",
+            "variacao": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ72ce0R3UIRbV8XNf-2ZT1TQRkc5fw8v4YP306DZvD5LOiwnptbFcPNYg8mNCzvGR4lkPoWG8-sNRd/pubchart?oid=1449212013&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ72ce0R3UIRbV8XNf-2ZT1TQRkc5fw8v4YP306DZvD5LOiwnptbFcPNYg8mNCzvGR4lkPoWG8-sNRd/pubchart?oid=1465225889&format=image",
+            "detratores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ72ce0R3UIRbV8XNf-2ZT1TQRkc5fw8v4YP306DZvD5LOiwnptbFcPNYg8mNCzvGR4lkPoWG8-sNRd/pubchart?oid=1888888001&format=image",
+            "neutros": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ72ce0R3UIRbV8XNf-2ZT1TQRkc5fw8v4YP306DZvD5LOiwnptbFcPNYg8mNCzvGR4lkPoWG8-sNRd/pubchart?oid=997039532&format=image",
+            "promotores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ72ce0R3UIRbV8XNf-2ZT1TQRkc5fw8v4YP306DZvD5LOiwnptbFcPNYg8mNCzvGR4lkPoWG8-sNRd/pubchart?oid=2076809000&format=image",
+            "historico_tipo_cliente": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ72ce0R3UIRbV8XNf-2ZT1TQRkc5fw8v4YP306DZvD5LOiwnptbFcPNYg8mNCzvGR4lkPoWG8-sNRd/pubchart?oid=282521412&format=image"
+        },
+        "preferencias": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSaz_t4IEVb59Y_s4T7Zqa-2KrLLu-v4T8N1_A1Hvq1MCIzkIO2tXhe0uVC9uSkZ7EGHeEO7qUAkG99/pubchart?oid=1402448772&format=image",
+        "espera": {
+            "ranking": "",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ufjk_Y8cGogZWllQYhjXgV5_mRhNsFvhGZSo3gJ7cCwjXxCi-n_htRDPeFiHqCZdwJhuEFjqnkqW/pubchart?oid=475473979&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ufjk_Y8cGogZWllQYhjXgV5_mRhNsFvhGZSo3gJ7cCwjXxCi-n_htRDPeFiHqCZdwJhuEFjqnkqW/pubchart?oid=152635069&format=image"
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ufjk_Y8cGogZWllQYhjXgV5_mRhNsFvhGZSo3gJ7cCwjXxCi-n_htRDPeFiHqCZdwJhuEFjqnkqW/pubchart?oid=1940532086&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ufjk_Y8cGogZWllQYhjXgV5_mRhNsFvhGZSo3gJ7cCwjXxCi-n_htRDPeFiHqCZdwJhuEFjqnkqW/pubchart?oid=229245926&format=image"
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ufjk_Y8cGogZWllQYhjXgV5_mRhNsFvhGZSo3gJ7cCwjXxCi-n_htRDPeFiHqCZdwJhuEFjqnkqW/pubchart?oid=1031707513&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ufjk_Y8cGogZWllQYhjXgV5_mRhNsFvhGZSo3gJ7cCwjXxCi-n_htRDPeFiHqCZdwJhuEFjqnkqW/pubchart?oid=1226013101&format=image"
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ufjk_Y8cGogZWllQYhjXgV5_mRhNsFvhGZSo3gJ7cCwjXxCi-n_htRDPeFiHqCZdwJhuEFjqnkqW/pubchart?oid=664960162&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ufjk_Y8cGogZWllQYhjXgV5_mRhNsFvhGZSo3gJ7cCwjXxCi-n_htRDPeFiHqCZdwJhuEFjqnkqW/pubchart?oid=137180898&format=image"
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ufjk_Y8cGogZWllQYhjXgV5_mRhNsFvhGZSo3gJ7cCwjXxCi-n_htRDPeFiHqCZdwJhuEFjqnkqW/pubchart?oid=1958800145&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ufjk_Y8cGogZWllQYhjXgV5_mRhNsFvhGZSo3gJ7cCwjXxCi-n_htRDPeFiHqCZdwJhuEFjqnkqW/pubchart?oid=152635069&format=image"
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ufjk_Y8cGogZWllQYhjXgV5_mRhNsFvhGZSo3gJ7cCwjXxCi-n_htRDPeFiHqCZdwJhuEFjqnkqW/pubchart?oid=1232765654&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ3ufjk_Y8cGogZWllQYhjXgV5_mRhNsFvhGZSo3gJ7cCwjXxCi-n_htRDPeFiHqCZdwJhuEFjqnkqW/pubchart?oid=1567186683&format=image"
+        },
+        "produtos": {
+            "grafico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRMV7_WwPwYqXlHoAiMgnPFUKqoh0bWbM3a_EhEbqXVY-PKcKs64BPIOCd0ETo-ZamiTRd10ClSMVAT/pubchart?oid=1534721297&format=image",
+            "tabela": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTM6T0B6mxrKOeDM61vNED803tS7bLEiTlIH464hiFcKjEk2O03A91kcCLLDRtMC7HBnVs6RTd6bGnv/pubhtml?gid=910053604&single=true"
+        },
+        "comentarios": {
+            "30_dias": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSaSLaqtZ5cDOzwgQG8FFnB8YW8HzYrqs808R6WEDnLPpULTCcsM114py0tuMruxnqtuYEYCtV_dvXJ/pubhtml?gid=112891552&single=true",
+            "detratores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSaSLaqtZ5cDOzwgQG8FFnB8YW8HzYrqs808R6WEDnLPpULTCcsM114py0tuMruxnqtuYEYCtV_dvXJ/pubhtml?gid=1176909101&single=true",
+            "neutros": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSaSLaqtZ5cDOzwgQG8FFnB8YW8HzYrqs808R6WEDnLPpULTCcsM114py0tuMruxnqtuYEYCtV_dvXJ/pubhtml?gid=283162408&single=true",
+            "promotores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSaSLaqtZ5cDOzwgQG8FFnB8YW8HzYrqs808R6WEDnLPpULTCcsM114py0tuMruxnqtuYEYCtV_dvXJ/pubhtml?gid=124879499&single=true"
+        }
+    },
+    "l_12": {
+        "respostas": {
+            "atual": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSInyo_Sz7v7CKF9OJztes-mGzrQdvYifB_FUmLyMHfMZNE52jcFi8-vl3Okm87CB0aw0h3y6Sipe7f/pubchart?oid=743794058&format=image",
+            "anterior": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSInyo_Sz7v7CKF9OJztes-mGzrQdvYifB_FUmLyMHfMZNE52jcFi8-vl3Okm87CB0aw0h3y6Sipe7f/pubchart?oid=401402418&format=image",
+            "total": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSInyo_Sz7v7CKF9OJztes-mGzrQdvYifB_FUmLyMHfMZNE52jcFi8-vl3Okm87CB0aw0h3y6Sipe7f/pubchart?oid=2042804977&format=image"
+        },
+        "nps": {
+            "atual": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQp2TzfiZzLwx4t-LanftU-QGhc3fk9FV10UGCg2La5aDTUIbMYW82nxlTkcm7uNfNuS0lUxQYU7Ou7/pubchart?oid=1283659048&format=image",
+            "total": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQp2TzfiZzLwx4t-LanftU-QGhc3fk9FV10UGCg2La5aDTUIbMYW82nxlTkcm7uNfNuS0lUxQYU7Ou7/pubchart?oid=1860345304&format=image",
+            "variacao": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQp2TzfiZzLwx4t-LanftU-QGhc3fk9FV10UGCg2La5aDTUIbMYW82nxlTkcm7uNfNuS0lUxQYU7Ou7/pubchart?oid=1449212013&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQp2TzfiZzLwx4t-LanftU-QGhc3fk9FV10UGCg2La5aDTUIbMYW82nxlTkcm7uNfNuS0lUxQYU7Ou7/pubchart?oid=1465225889&format=image",
+            "detratores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQp2TzfiZzLwx4t-LanftU-QGhc3fk9FV10UGCg2La5aDTUIbMYW82nxlTkcm7uNfNuS0lUxQYU7Ou7/pubchart?oid=1971265951&format=image",
+            "neutros": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQp2TzfiZzLwx4t-LanftU-QGhc3fk9FV10UGCg2La5aDTUIbMYW82nxlTkcm7uNfNuS0lUxQYU7Ou7/pubchart?oid=2141221729&format=image",
+            "promotores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQp2TzfiZzLwx4t-LanftU-QGhc3fk9FV10UGCg2La5aDTUIbMYW82nxlTkcm7uNfNuS0lUxQYU7Ou7/pubchart?oid=936680689&format=image",
+            "historico_tipo_cliente": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQp2TzfiZzLwx4t-LanftU-QGhc3fk9FV10UGCg2La5aDTUIbMYW82nxlTkcm7uNfNuS0lUxQYU7Ou7/pubchart?oid=1443273071&format=image"
+        },
+        "preferencias": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTt6aJV0oc32mDyYw8LGSdA7V5Ib0fK1nH_o8_EcwdKrjiS3m6QKZ60JuPU0EecX7iTsr-1kgV7ZTLt/pubchart?oid=1402448772&format=image",
+        "espera": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTbT6uoWhDI40roQx68eH6zZzqL2XgQrOc5YP5uxDAbuMIWl9CWmyprwB1NN9RKqCZkSAhLf10Rui96/pubchart?oid=1134802033&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlMJz5P_Rso_Imv4LJ1UyHvneoy7WlEPGkS8NoiJGou5KpMFkd_cAlqRUyeRzgItalUD1nmuN1N1JB/pubchart?oid=475473979&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlMJz5P_Rso_Imv4LJ1UyHvneoy7WlEPGkS8NoiJGou5KpMFkd_cAlqRUyeRzgItalUD1nmuN1N1JB/pubchart?oid=890801647&format=image"
+        },
+        "hortifruti": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTbT6uoWhDI40roQx68eH6zZzqL2XgQrOc5YP5uxDAbuMIWl9CWmyprwB1NN9RKqCZkSAhLf10Rui96/pubchart?oid=1224650229&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlMJz5P_Rso_Imv4LJ1UyHvneoy7WlEPGkS8NoiJGou5KpMFkd_cAlqRUyeRzgItalUD1nmuN1N1JB/pubchart?oid=1940532086&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlMJz5P_Rso_Imv4LJ1UyHvneoy7WlEPGkS8NoiJGou5KpMFkd_cAlqRUyeRzgItalUD1nmuN1N1JB/pubchart?oid=229245926&format=image"
+        },
+        "climatizacao": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTbT6uoWhDI40roQx68eH6zZzqL2XgQrOc5YP5uxDAbuMIWl9CWmyprwB1NN9RKqCZkSAhLf10Rui96/pubchart?oid=244481120&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlMJz5P_Rso_Imv4LJ1UyHvneoy7WlEPGkS8NoiJGou5KpMFkd_cAlqRUyeRzgItalUD1nmuN1N1JB/pubchart?oid=1031707513&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlMJz5P_Rso_Imv4LJ1UyHvneoy7WlEPGkS8NoiJGou5KpMFkd_cAlqRUyeRzgItalUD1nmuN1N1JB/pubchart?oid=1226013101&format=image"
+        },
+        "limpeza": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTbT6uoWhDI40roQx68eH6zZzqL2XgQrOc5YP5uxDAbuMIWl9CWmyprwB1NN9RKqCZkSAhLf10Rui96/pubchart?oid=1071068949&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlMJz5P_Rso_Imv4LJ1UyHvneoy7WlEPGkS8NoiJGou5KpMFkd_cAlqRUyeRzgItalUD1nmuN1N1JB/pubchart?oid=664960162&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlMJz5P_Rso_Imv4LJ1UyHvneoy7WlEPGkS8NoiJGou5KpMFkd_cAlqRUyeRzgItalUD1nmuN1N1JB/pubchart?oid=137180898&format=image"
+        },
+        "atendimento": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTbT6uoWhDI40roQx68eH6zZzqL2XgQrOc5YP5uxDAbuMIWl9CWmyprwB1NN9RKqCZkSAhLf10Rui96/pubchart?oid=925963706&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlMJz5P_Rso_Imv4LJ1UyHvneoy7WlEPGkS8NoiJGou5KpMFkd_cAlqRUyeRzgItalUD1nmuN1N1JB/pubchart?oid=1958800145&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlMJz5P_Rso_Imv4LJ1UyHvneoy7WlEPGkS8NoiJGou5KpMFkd_cAlqRUyeRzgItalUD1nmuN1N1JB/pubchart?oid=152635069&format=image"
+        },
+        "acogue": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTbT6uoWhDI40roQx68eH6zZzqL2XgQrOc5YP5uxDAbuMIWl9CWmyprwB1NN9RKqCZkSAhLf10Rui96/pubchart?oid=320419301&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlMJz5P_Rso_Imv4LJ1UyHvneoy7WlEPGkS8NoiJGou5KpMFkd_cAlqRUyeRzgItalUD1nmuN1N1JB/pubchart?oid=1232765654&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQlMJz5P_Rso_Imv4LJ1UyHvneoy7WlEPGkS8NoiJGou5KpMFkd_cAlqRUyeRzgItalUD1nmuN1N1JB/pubchart?oid=1567186683&format=image"
+        },
+        "produtos": {
+            "grafico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSInyo_Sz7v7CKF9OJztes-mGzrQdvYifB_FUmLyMHfMZNE52jcFi8-vl3Okm87CB0aw0h3y6Sipe7f/pubchart?oid=1534721297&format=image",
+            "tabela": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQDXziAurpZ56xu4YUYRzqgJB4gFT0XsstN06jKAaxo1ll72lRn2RFXvpmZy8r8Swb6HAOndpDjdE8f/pubhtml?gid=910053604&single=true"
+        },
+        "comentarios": {
+            "30_dias": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRbyUcEOLV0kuqbf1HAgNr7sbOFng2-2NkUJar4whJJ6ZO81uGuDVFBSwasZ6YiEO7XLIVPGPTmX982/pubhtml?gid=112891552&single=true",
+            "detratores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRbyUcEOLV0kuqbf1HAgNr7sbOFng2-2NkUJar4whJJ6ZO81uGuDVFBSwasZ6YiEO7XLIVPGPTmX982/pubhtml?gid=2067664797&single=true",
+            "neutros": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRbyUcEOLV0kuqbf1HAgNr7sbOFng2-2NkUJar4whJJ6ZO81uGuDVFBSwasZ6YiEO7XLIVPGPTmX982/pubhtml?gid=1963643202&single=true",
+            "promotores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRbyUcEOLV0kuqbf1HAgNr7sbOFng2-2NkUJar4whJJ6ZO81uGuDVFBSwasZ6YiEO7XLIVPGPTmX982/pubhtml?gid=1259231054&single=true"
+        }
+    },
+    "l_21": {
+        "respostas": {
+            "atual": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRi0Csr52fiMWv98qxuupHxvoHn63legftk7pVR-466umFIhWlZ-KMnJZksFMTRrPEhAirnI_4Gm1Nw/pubchart?oid=743794058&format=image",
+            "anterior": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRi0Csr52fiMWv98qxuupHxvoHn63legftk7pVR-466umFIhWlZ-KMnJZksFMTRrPEhAirnI_4Gm1Nw/pubchart?oid=401402418&format=image",
+            "total": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRi0Csr52fiMWv98qxuupHxvoHn63legftk7pVR-466umFIhWlZ-KMnJZksFMTRrPEhAirnI_4Gm1Nw/pubchart?oid=2042804977&format=image"
+        },
+        "nps": {
+            "atual": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwSEwIXbkmz--d-rHaAQkjwKI8c1t56w5un4qIFdC323Rw6_j-qnBoaasrfWAcduBzivS2MXLFeYMg/pubchart?oid=1283659048&format=image",
+            "total": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwSEwIXbkmz--d-rHaAQkjwKI8c1t56w5un4qIFdC323Rw6_j-qnBoaasrfWAcduBzivS2MXLFeYMg/pubchart?oid=1860345304&format=image",
+            "variacao": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwSEwIXbkmz--d-rHaAQkjwKI8c1t56w5un4qIFdC323Rw6_j-qnBoaasrfWAcduBzivS2MXLFeYMg/pubchart?oid=1449212013&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwSEwIXbkmz--d-rHaAQkjwKI8c1t56w5un4qIFdC323Rw6_j-qnBoaasrfWAcduBzivS2MXLFeYMg/pubchart?oid=1465225889&format=image",
+            "detratores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwSEwIXbkmz--d-rHaAQkjwKI8c1t56w5un4qIFdC323Rw6_j-qnBoaasrfWAcduBzivS2MXLFeYMg/pubchart?oid=1266381465&format=image",
+            "neutros": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwSEwIXbkmz--d-rHaAQkjwKI8c1t56w5un4qIFdC323Rw6_j-qnBoaasrfWAcduBzivS2MXLFeYMg/pubchart?oid=169525985&format=image",
+            "promotores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwSEwIXbkmz--d-rHaAQkjwKI8c1t56w5un4qIFdC323Rw6_j-qnBoaasrfWAcduBzivS2MXLFeYMg/pubchart?oid=1144330215&format=image",
+            "historico_tipo_cliente": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTwSEwIXbkmz--d-rHaAQkjwKI8c1t56w5un4qIFdC323Rw6_j-qnBoaasrfWAcduBzivS2MXLFeYMg/pubchart?oid=419606355&format=image"
+        },
+        "preferencias": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRmmwB_VCgIczQ7huY7wKgn1BQbZsamfwPwfkwwWhUfyWWj1Pehmwu_mEOHUwAMHbFVcY_kudxclsz1/pubchart?oid=1402448772&format=image",
+        "espera": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8GC9eqplZMJ0-ESYwdbxTP9zQI_CiqYrJMgVUUSTd_lP4gcg5FsPnPsB9NvrBn1-OhHzfFxv7Ro3O/pubchart?oid=1134802033&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBnE8R_tDPmqOdSPsJrIHze_GZ-lB1gsqBFA___MrX40i_dqB7d_ZJ2UPZAX_lev0Af-X9Nx-2HJDL/pubchart?oid=475473979&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBnE8R_tDPmqOdSPsJrIHze_GZ-lB1gsqBFA___MrX40i_dqB7d_ZJ2UPZAX_lev0Af-X9Nx-2HJDL/pubchart?oid=890801647&format=image"
+        },
+        "hortifruti": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8GC9eqplZMJ0-ESYwdbxTP9zQI_CiqYrJMgVUUSTd_lP4gcg5FsPnPsB9NvrBn1-OhHzfFxv7Ro3O/pubchart?oid=1224650229&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBnE8R_tDPmqOdSPsJrIHze_GZ-lB1gsqBFA___MrX40i_dqB7d_ZJ2UPZAX_lev0Af-X9Nx-2HJDL/pubchart?oid=1940532086&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBnE8R_tDPmqOdSPsJrIHze_GZ-lB1gsqBFA___MrX40i_dqB7d_ZJ2UPZAX_lev0Af-X9Nx-2HJDL/pubchart?oid=229245926&format=image"
+        },
+        "climatizacao": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8GC9eqplZMJ0-ESYwdbxTP9zQI_CiqYrJMgVUUSTd_lP4gcg5FsPnPsB9NvrBn1-OhHzfFxv7Ro3O/pubchart?oid=244481120&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBnE8R_tDPmqOdSPsJrIHze_GZ-lB1gsqBFA___MrX40i_dqB7d_ZJ2UPZAX_lev0Af-X9Nx-2HJDL/pubchart?oid=1031707513&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBnE8R_tDPmqOdSPsJrIHze_GZ-lB1gsqBFA___MrX40i_dqB7d_ZJ2UPZAX_lev0Af-X9Nx-2HJDL/pubchart?oid=1226013101&format=image"
+        },
+        "limpeza": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8GC9eqplZMJ0-ESYwdbxTP9zQI_CiqYrJMgVUUSTd_lP4gcg5FsPnPsB9NvrBn1-OhHzfFxv7Ro3O/pubchart?oid=1071068949&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBnE8R_tDPmqOdSPsJrIHze_GZ-lB1gsqBFA___MrX40i_dqB7d_ZJ2UPZAX_lev0Af-X9Nx-2HJDL/pubchart?oid=664960162&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBnE8R_tDPmqOdSPsJrIHze_GZ-lB1gsqBFA___MrX40i_dqB7d_ZJ2UPZAX_lev0Af-X9Nx-2HJDL/pubchart?oid=137180898&format=image"
+        },
+        "atendimento": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8GC9eqplZMJ0-ESYwdbxTP9zQI_CiqYrJMgVUUSTd_lP4gcg5FsPnPsB9NvrBn1-OhHzfFxv7Ro3O/pubchart?oid=925963706&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBnE8R_tDPmqOdSPsJrIHze_GZ-lB1gsqBFA___MrX40i_dqB7d_ZJ2UPZAX_lev0Af-X9Nx-2HJDL/pubchart?oid=1958800145&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBnE8R_tDPmqOdSPsJrIHze_GZ-lB1gsqBFA___MrX40i_dqB7d_ZJ2UPZAX_lev0Af-X9Nx-2HJDL/pubchart?oid=152635069&format=image"
+        },
+        "acogue": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ8GC9eqplZMJ0-ESYwdbxTP9zQI_CiqYrJMgVUUSTd_lP4gcg5FsPnPsB9NvrBn1-OhHzfFxv7Ro3O/pubchart?oid=320419301&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBnE8R_tDPmqOdSPsJrIHze_GZ-lB1gsqBFA___MrX40i_dqB7d_ZJ2UPZAX_lev0Af-X9Nx-2HJDL/pubchart?oid=1232765654&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSBnE8R_tDPmqOdSPsJrIHze_GZ-lB1gsqBFA___MrX40i_dqB7d_ZJ2UPZAX_lev0Af-X9Nx-2HJDL/pubchart?oid=1567186683&format=image"
+        },
+        "produtos": {
+            "grafico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRi0Csr52fiMWv98qxuupHxvoHn63legftk7pVR-466umFIhWlZ-KMnJZksFMTRrPEhAirnI_4Gm1Nw/pubchart?oid=1534721297&format=image",
+            "tabela": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTuNtLcYt9W6RiTQ3E1GreA1-8hdVND4F-iC3G-bQFNP5bllu-d5SBOjzzL6AH04WyUCqT1hXKFmaPI/pubhtml?gid=910053604&single=true"
+        },
+        "comentarios": {
+            "30_dias": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTMvUQ9XFs1AFmse_CDsR4ULxDQmzdTxeSUAh0QDw8dg5S_9QTnNEzN9k0wZvmt8h04Why-mAvi1Xgf/pubhtml?gid=112891552&single=true",
+            "detratores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTMvUQ9XFs1AFmse_CDsR4ULxDQmzdTxeSUAh0QDw8dg5S_9QTnNEzN9k0wZvmt8h04Why-mAvi1Xgf/pubhtml?gid=197481969&single=true",
+            "neutros": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTMvUQ9XFs1AFmse_CDsR4ULxDQmzdTxeSUAh0QDw8dg5S_9QTnNEzN9k0wZvmt8h04Why-mAvi1Xgf/pubhtml?gid=333044937&single=true",
+            "promotores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTMvUQ9XFs1AFmse_CDsR4ULxDQmzdTxeSUAh0QDw8dg5S_9QTnNEzN9k0wZvmt8h04Why-mAvi1Xgf/pubhtml?gid=1417429673&single=true"
+        }
+    },
+    "l_41": {
+        "respostas": {
+            "atual": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRb8tDhudWmfE5qHC3z_bQi2MWitA5Ou6zmxYWqWjBmIRWy4HEXcysmtERJj-WpJndP_9wWYu-6PIah/pubchart?oid=743794058&format=image",
+            "anterior": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRb8tDhudWmfE5qHC3z_bQi2MWitA5Ou6zmxYWqWjBmIRWy4HEXcysmtERJj-WpJndP_9wWYu-6PIah/pubchart?oid=401402418&format=image",
+            "total": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRb8tDhudWmfE5qHC3z_bQi2MWitA5Ou6zmxYWqWjBmIRWy4HEXcysmtERJj-WpJndP_9wWYu-6PIah/pubchart?oid=2042804977&format=image"
+        },
+        "nps": {
+            "atual": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuBr16qM-SJz1a75fBHXNADkg2N9IjONs9jzFvrvmppsFc4h_7pr1G3zDVaS2kHchtNDTL7sFsW5Q/pubchart?oid=1283659048&format=image",
+            "total": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuBr16qM-SJz1a75fBHXNADkg2N9IjONs9jzFvrvmppsFc4h_7pr1G3zDVaS2kHchtNDTL7sFsW5Q/pubchart?oid=1860345304&format=image",
+            "variacao": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuBr16qM-SJz1a75fBHXNADkg2N9IjONs9jzFvrvmppsFc4h_7pr1G3zDVaS2kHchtNDTL7sFsW5Q/pubchart?oid=1449212013&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuBr16qM-SJz1a75fBHXNADkg2N9IjONs9jzFvrvmppsFc4h_7pr1G3zDVaS2kHchtNDTL7sFsW5Q/pubchart?oid=1465225889&format=image",
+            "detratores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuBr16qM-SJz1a75fBHXNADkg2N9IjONs9jzFvrvmppsFc4h_7pr1G3zDVaS2kHchtNDTL7sFsW5Q/pubchart?oid=2086072514&format=image",
+            "neutros": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuBr16qM-SJz1a75fBHXNADkg2N9IjONs9jzFvrvmppsFc4h_7pr1G3zDVaS2kHchtNDTL7sFsW5Q/pubchart?oid=920462809&format=image",
+            "promotores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuBr16qM-SJz1a75fBHXNADkg2N9IjONs9jzFvrvmppsFc4h_7pr1G3zDVaS2kHchtNDTL7sFsW5Q/pubchart?oid=1655086195&format=image",
+            "historico_tipo_cliente": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQZuBr16qM-SJz1a75fBHXNADkg2N9IjONs9jzFvrvmppsFc4h_7pr1G3zDVaS2kHchtNDTL7sFsW5Q/pubchart?oid=883219044&format=image"
+        },
+        "preferencias": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSCTOp1Je0mE_93VFd2i_gVGGwYOChXG85nfDNC_oPguX5mVRZ6GtayRhGrlqrOZ_e4UrJENqJYHytX/pubchart?oid=1402448772&format=image",
+        "espera": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRRf2kxDx_aGyCRe1JRJRvAXF4kRpNZIBjyov0Z82ggjH8704YbCr334ZwtqWP-N5UkA8iwN7buimPk/pubchart?oid=1134802033&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZD3hUdjn0Pd41WQoNNGf3JJMY7_Qwxw3xR5UDqNuw41bxftX7sBNgSFZUvIlZsa73ylWh4rP6n43G/pubchart?oid=475473979&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZD3hUdjn0Pd41WQoNNGf3JJMY7_Qwxw3xR5UDqNuw41bxftX7sBNgSFZUvIlZsa73ylWh4rP6n43G/pubchart?oid=890801647&format=image"
+        },
+        "hortifruti": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRRf2kxDx_aGyCRe1JRJRvAXF4kRpNZIBjyov0Z82ggjH8704YbCr334ZwtqWP-N5UkA8iwN7buimPk/pubchart?oid=1224650229&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZD3hUdjn0Pd41WQoNNGf3JJMY7_Qwxw3xR5UDqNuw41bxftX7sBNgSFZUvIlZsa73ylWh4rP6n43G/pubchart?oid=1940532086&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZD3hUdjn0Pd41WQoNNGf3JJMY7_Qwxw3xR5UDqNuw41bxftX7sBNgSFZUvIlZsa73ylWh4rP6n43G/pubchart?oid=229245926&format=image"
+        },
+        "climatizacao": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRRf2kxDx_aGyCRe1JRJRvAXF4kRpNZIBjyov0Z82ggjH8704YbCr334ZwtqWP-N5UkA8iwN7buimPk/pubchart?oid=244481120&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZD3hUdjn0Pd41WQoNNGf3JJMY7_Qwxw3xR5UDqNuw41bxftX7sBNgSFZUvIlZsa73ylWh4rP6n43G/pubchart?oid=1031707513&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZD3hUdjn0Pd41WQoNNGf3JJMY7_Qwxw3xR5UDqNuw41bxftX7sBNgSFZUvIlZsa73ylWh4rP6n43G/pubchart?oid=1226013101&format=image"
+        },
+        "limpeza": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRRf2kxDx_aGyCRe1JRJRvAXF4kRpNZIBjyov0Z82ggjH8704YbCr334ZwtqWP-N5UkA8iwN7buimPk/pubchart?oid=1071068949&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZD3hUdjn0Pd41WQoNNGf3JJMY7_Qwxw3xR5UDqNuw41bxftX7sBNgSFZUvIlZsa73ylWh4rP6n43G/pubchart?oid=664960162&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZD3hUdjn0Pd41WQoNNGf3JJMY7_Qwxw3xR5UDqNuw41bxftX7sBNgSFZUvIlZsa73ylWh4rP6n43G/pubchart?oid=137180898&format=image"
+        },
+        "atendimento": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRRf2kxDx_aGyCRe1JRJRvAXF4kRpNZIBjyov0Z82ggjH8704YbCr334ZwtqWP-N5UkA8iwN7buimPk/pubchart?oid=925963706&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZD3hUdjn0Pd41WQoNNGf3JJMY7_Qwxw3xR5UDqNuw41bxftX7sBNgSFZUvIlZsa73ylWh4rP6n43G/pubchart?oid=1958800145&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZD3hUdjn0Pd41WQoNNGf3JJMY7_Qwxw3xR5UDqNuw41bxftX7sBNgSFZUvIlZsa73ylWh4rP6n43G/pubchart?oid=152635069&format=image"
+        },
+        "acogue": {
+            "ranking": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRRf2kxDx_aGyCRe1JRJRvAXF4kRpNZIBjyov0Z82ggjH8704YbCr334ZwtqWP-N5UkA8iwN7buimPk/pubchart?oid=320419301&format=image",
+            "indicador": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZD3hUdjn0Pd41WQoNNGf3JJMY7_Qwxw3xR5UDqNuw41bxftX7sBNgSFZUvIlZsa73ylWh4rP6n43G/pubchart?oid=1232765654&format=image",
+            "historico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTZD3hUdjn0Pd41WQoNNGf3JJMY7_Qwxw3xR5UDqNuw41bxftX7sBNgSFZUvIlZsa73ylWh4rP6n43G/pubchart?oid=1567186683&format=image"
+        },
+        "produtos": {
+            "grafico": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRb8tDhudWmfE5qHC3z_bQi2MWitA5Ou6zmxYWqWjBmIRWy4HEXcysmtERJj-WpJndP_9wWYu-6PIah/pubchart?oid=1534721297&format=image",
+            "tabela": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQvqysMggu2rJwNcbamiji4gFZ3T_z4kF2timP7x_X3ZhFLToLG8Ay3xhLKZbWxCnV8gujDTjp429DS/pubhtml?gid=910053604&single=true"
+        },
+        "comentarios": {
+            "30_dias": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRfUFZ1LfkzTR6Jde5JJ-UqBZEGZe73cRkYpu2w2N-5IW_kDzJm7KzFjUl_CXTU_wMSUe3w15RqihEk/pubhtml?gid=112891552&single=true",
+            "detratores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRfUFZ1LfkzTR6Jde5JJ-UqBZEGZe73cRkYpu2w2N-5IW_kDzJm7KzFjUl_CXTU_wMSUe3w15RqihEk/pubhtml?gid=1045862697&single=true",
+            "neutros": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRfUFZ1LfkzTR6Jde5JJ-UqBZEGZe73cRkYpu2w2N-5IW_kDzJm7KzFjUl_CXTU_wMSUe3w15RqihEk/pubhtml?gid=945015743&single=true",
+            "promotores": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRfUFZ1LfkzTR6Jde5JJ-UqBZEGZe73cRkYpu2w2N-5IW_kDzJm7KzFjUl_CXTU_wMSUe3w15RqihEk/pubhtml?gid=1931509489&single=true"
+        }
+    },
+    "l_42": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_51": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_52": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_54": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_55": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_61": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_71": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_72": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_91": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_101": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_121": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_122": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_123": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_141": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_142": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    },
+    "l_143": {
+        "respostas": {
+            "atual": "",
+            "anterior": "",
+            "total": ""
+        },
+        "nps": {
+            "atual": "",
+            "total": "",
+            "variacao": "",
+            "historico": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": "",
+            "historico_tipo_cliente": ""
+        },
+        "preferencias": "",
+        "espera": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "hortifruti": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "climatizacao": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "limpeza": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "atendimento": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "acogue": {
+            "ranking": "",
+            "indicador": "",
+            "bench": "",
+            "historico": ""
+        },
+        "produtos": {
+            "grafico": "",
+            "tabela": ""
+        },
+        "comentarios": {
+            "30_dias": "",
+            "detratores": "",
+            "neutros": "",
+            "promotores": ""
+        }
+    }
 }
