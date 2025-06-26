@@ -28,7 +28,7 @@ async function verificarUsuario(login,password){
     
 }
 
-const SECRET = process.env.JWT_SECRET
+const SECRET = process.env.JWT_SECRET||"segredo_dev"
 
 export default async function login(req, res) {
     if (req.method !== "POST") {
