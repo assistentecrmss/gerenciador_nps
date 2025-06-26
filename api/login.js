@@ -48,7 +48,7 @@ const SECRET = process.env.JWT_SECRET || "dev_secret";
 
 export default async function login(req, res) {
     if (req.method !== "POST") {
-        return res.status(405).json({ error: "Método não permitido" });
+        return res.status(405).json({ error: `Método não permitido: ${req.method}` });
     }
     const { login, password } = req.body;
     
