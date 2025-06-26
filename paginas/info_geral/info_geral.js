@@ -1,12 +1,12 @@
-import lojas from "../../db/lojas.json" with {type: 'json'}
 import { pegarLink } from "../../lib/pegarLinks.js"
 
 async function preencherInfoGeral() {
     const chave_loja = sessionStorage.getItem("loja_selecionada")
+    const nome_loja = sessionStorage.getItem("nome_loja_selecionada")
     const links = await pegarLink(chave_loja)
     const link_rede = await pegarLink("l_0")
 
-    document.getElementById("titulo").textContent = lojas[chave_loja]
+    document.getElementById("titulo").textContent = nome_loja
     
     criarRespostas(links)
     criarNpsAtual(links)

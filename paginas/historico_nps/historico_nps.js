@@ -1,11 +1,11 @@
 import { pegarLink } from "../../lib/pegarLinks.js"
-import lojas from "../../db/lojas.json" with {type: 'json'}
 
 async function preencherHistoricoNPS(){
     const chave_loja = sessionStorage.getItem("loja_selecionada")
+    const nome_loja = sessionStorage.getItem("nome_loja_selecionada")
     const links = await pegarLink(chave_loja)
 
-    document.getElementById("titulo").textContent = lojas[chave_loja]
+    document.getElementById("titulo").textContent = nome_loja
 
     criarHistorico(links)
     criarDivisaoPublico(links)

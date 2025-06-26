@@ -21,6 +21,7 @@ async function preencherLojas() {
 
         elemento.addEventListener("click", () => {
             sessionStorage.setItem("loja_selecionada", chave)
+            sessionStorage.setItem("nome_loja_selecionada", lojas[chave])
             window.location.href = "../info_geral/info_geral.html"
         })
 
