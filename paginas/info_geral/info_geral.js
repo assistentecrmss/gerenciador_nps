@@ -1,23 +1,5 @@
 import lojas from "../../db/lojas.json" with {type: 'json'}
-
-
-async function pegarLink(loja) {
-    const response = await fetch("/api/links", {
-        method: "POST",
-        headers: {
-            "Content-Type": "application/json"
-        },
-        body: JSON.stringify({ loja })
-    });
-    const data = await response.json();
-
-    if (!response.ok) {
-        throw new Error(data.error || "Erro ao buscar links");
-    }
-
-    return data;
-}
-
+import { pegarLink } from "../../lib/pegarLinks.js"
 
 async function preencherInfoGeral() {
     const chave_loja = sessionStorage.getItem("loja_selecionada")
