@@ -50,6 +50,6 @@ async function checarTokenELogar() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-    checarTokeneLogar()
+    checarTokenELogar()
     document.getElementById("login").addEventListener("submit", verificarUsuario)
 })
