@@ -54,5 +54,6 @@ document.addEventListener("DOMContentLoaded", async () => {
 
 const voltar = document.getElementById("sair")
 voltar.addEventListener("click", () => {
+    localStorage.removeItem("token")
     window.location.href = "../../index.html"
 })
