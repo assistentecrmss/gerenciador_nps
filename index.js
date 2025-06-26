@@ -10,13 +10,13 @@ async function verificarUsuario(event) {
     await fazerLogin(login, password)
 }
 
-async function fazerLogin(login, senha) {
+async function fazerLogin(login, password) {
     const response = await fetch("/api/login", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"
         },
-        body: JSON.stringify({ login, senha })
+        body: JSON.stringify({ login, password })
     });
     const data = await response.json();
     if (response.ok) {
