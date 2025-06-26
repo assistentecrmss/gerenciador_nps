@@ -27,32 +27,26 @@ async function fazerLogin(login, password) {
     }
 }
 
-async function checarTokeneLogar() {
-    const token = localStorage.getItem("token");
+async function checarTokenELogar() {
+  const token = localStorage.getItem("token");
+  if (!token) return;
 
-    if (!token) {
-        return;
-    }
+  try {
+    const response = await fetch("/api/token", {
+      headers: {
+        Authorization: `Bearer ${token}`
+      }
+    });
 
-    try {
-        const response = await fetch("/api/token", {
-            headers: {
-                "Authorization": `Bearer ${token}`
-            }
-        });
-
-        if (response.ok) {
-            const data = await response.json();
-            localStorage.setItem("token", data.token);
-            window.location.href = "/paginas/lojas/lojas.html"
-        } else {
-            localStorage.removeItem("token");
-        }
+    if (response.ok) {
+      window.location.href = "/paginas/lojas/lojas.html";
+    } else {
+      localStorage.removeItem("token");
     }
-    catch (err) {
-        console.error("Erro ao verificar token:", err);
-        localStorage.removeItem("token");
-    }
+  } catch (err) {
+    console.error("Erro ao verificar token:", err);
+    localStorage.removeItem("token");
+  }
 }
 
 document.addEventListener("DOMContentLoaded", () => {
