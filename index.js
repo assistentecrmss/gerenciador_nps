@@ -20,13 +20,42 @@ async function fazerLogin(login, password) {
     });
     const data = await response.json();
     if (response.ok) {
-        sessionStorage.setItem("token", data.token);
+        localStorage.setItem("token", data.token);
         window.location.href = "/paginas/lojas/lojas.html"
     } else {
         document.getElementById("erro").innerHTML = data.error
     }
 }
 
+async function checarTokeneLogar() {
+    const token = localStorage.getItem("token");
+
+    if (!token) {
+        return;
+    }
+
+    try {
+        const response = await fetch("/api/token", {
+            headers: {
+                "Authorization": `Bearer ${token}`
+            }
+        });
+
+        if (response.ok) {
+            const data = await response.json();
+            localStorage.setItem("token", data.token);
+            window.location.href = "/paginas/lojas/lojas.html"
+        } else {
+            localStorage.removeItem("token");
+        }
+    }
+    catch (err) {
+        console.error("Erro ao verificar token:", err);
+        localStorage.removeItem("token");
+    }
+}
+
 document.addEventListener("DOMContentLoaded", () => {
+    checarTokeneLogar()
     document.getElementById("login").addEventListener("submit", verificarUsuario)
 })
