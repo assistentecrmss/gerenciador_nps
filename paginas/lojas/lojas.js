@@ -29,7 +29,7 @@ async function preencherLojas() {
 }
 
 async function inicializarPerfil() {
-    const token = sessionStorage.getItem("token")
+    const token = localStorage.getItem("token")
 
     if (!token) {
         window.location.href = "../../index.html"
