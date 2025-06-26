@@ -1,5 +1,5 @@
 import jwt from "jsonwebtoken";
-import { trazerUsuarios } from "@/lib/usuarios.js";
+import { trazerUsuarios } from "../lib/usuarios.js";
 
 async function verificarUsuario(login,password){
     
@@ -28,7 +28,7 @@ async function verificarUsuario(login,password){
     
 }
 
-const SECRET = process.env.JWT_SECRET||"dev_secrect_key";
+const SECRET = process.env.JWT_SECRET
 
 export default async function login(req, res) {
     if (req.method !== "POST") {
