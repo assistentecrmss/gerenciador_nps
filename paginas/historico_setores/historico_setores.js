@@ -1,21 +1,22 @@
-import links from "../../db/links.json" with {type: 'json'}
 import lojas from "../../db/lojas.json" with {type: 'json'}
+import { pegarLink } from "../../lib/pegarLinks.js"
 
-function preencherHistoricoSetores() {
+async function preencherHistoricoSetores() {
     const chave_loja = sessionStorage.getItem("loja_selecionada")
+    const links = await pegarLink(chave_loja)
 
     document.getElementById("titulo").textContent = lojas[chave_loja]
 
-    criarHistoricoSetor(chave_loja, "espera")
-    criarHistoricoSetor(chave_loja, "hortifruti")
-    criarHistoricoSetor(chave_loja, "climatizacao")
-    criarHistoricoSetor(chave_loja, "limpeza")
-    criarHistoricoSetor(chave_loja, "atendimento")
-    criarHistoricoSetor(chave_loja, "acogue")
+    criarHistoricoSetor(chave_loja, "espera",links)
+    criarHistoricoSetor(chave_loja, "hortifruti",links)
+    criarHistoricoSetor(chave_loja, "climatizacao",links)
+    criarHistoricoSetor(chave_loja, "limpeza",links)
+    criarHistoricoSetor(chave_loja, "atendimento",links)
+    criarHistoricoSetor(chave_loja, "acogue",links)
 
 }
 
-function criarHistoricoSetor(chave_loja, setor) {
+function criarHistoricoSetor(chave_loja, setor,links) {
     const container_historico = document.getElementById("setores")
 
     const container_setor = document.createElement("div")
@@ -23,9 +24,9 @@ function criarHistoricoSetor(chave_loja, setor) {
     container_setor.style.marginInline = "2rem"
 
     const historico = document.createElement("img")
-    historico.src = links[chave_loja][setor].historico
+    historico.src = links[setor].historico
     const indicador = document.createElement("img")
-    indicador.src = links[chave_loja][setor].indicador
+    indicador.src = links[setor].indicador
 
     if (chave_loja == "l_0") {
         const container_geral = document.createElement("div")
@@ -43,7 +44,7 @@ function criarHistoricoSetor(chave_loja, setor) {
         container_setor.appendChild(container_geral)
 
         const ranking=document.createElement("iframe")
-        ranking.src=links[chave_loja][setor].ranking
+        ranking.src=links[setor].ranking
         ranking.width="480"
         ranking.height="650"
         ranking.frameBorder="0"
